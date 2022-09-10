@@ -26,7 +26,7 @@
   
   <h3 align="center">CRM</h3>
   <p align="center">
-    Customer relationship management
+    Customer Relationship Management with CRUD Operations
     <br />
     <a href="https://github.com/alyQamar/CRM"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,6 +52,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#exceptions">Exceptions</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -89,19 +91,19 @@ Use the `CRM_README.md` to get started.
 * The splash screen will appear after run program
 
 <a href="https://github.com/alyQamar/CRM">
-    <img src="screenshots/splash screen.png" alt="Logo" width="900" height="500">
+    <img src="screenshots/splash screen.png" alt="Logo" width="400" height="250">
   </a>
   
 
 * Then program screen will appear and you can convert it to dark mode with click to dark mode Radio Button
 
 <a href="https://github.com/alyQamar/CRM">
-    <img src="screenshots/dark_mode.png" alt="Logo" width="600" height="500">
+    <img src="screenshots/dark_mode.png" alt="Logo" width="500" height="400">
   </a>
 
 
 <!-- Features -->
-## App features
+##  Features
 * Add customer data
 
 * update customer data
@@ -112,18 +114,86 @@ Use the `CRM_README.md` to get started.
 
 * Search for Customer by using Code or name
 
+<div align="Center">
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/search_by_code.png" alt="print" width="500" height="400">
+  </a>
+
+  <a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/search_by_name.png" alt="print" width="500" height="400">
+  </a>
+
+</div>
+
 * print all costomer data
 
-<div align="right">
+<div align="Center">
 <a href="https://github.com/alyQamar/CRM">
-    <img src="screenshots/print.png" alt="print" width="500" height="400">
+    <img src="screenshots/print_settings.png" alt="print" width="500" height="400">
   </a>
+
+  <a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/print_pdf.png" alt="print" width="400" height="400">
+  </a>
+
 </div>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- USAGE EXAMPLES -->
+
+<!-- Exception -->
+##  Exceptions
+these some exceptions
+<div align="Center">
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/insert_code_exception.png" alt="print" width="400" height="400">
+  </a>
+
+  <a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/insert_name_exception.png" alt="print" width="400" height="400">
+  </a>
+</div>
+
+<div align="Center">
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/update_code_exception.png" alt="print" width="400" height="400">
+  </a>
+
+  <a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/empty_exception.png" alt="print" width="400" height="400">
+  </a>
+</div>
+
+
+
+<div align="Center">
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/delete_not_Found_exception.png" alt="print" width="400" height="400">
+  </a>
+
+  <a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/delete_empty_exception.png" alt="print" width="400" height="400">
+  </a>
+</div>
+
+<div align="Center">
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/delete_acception.png" alt="print" width="400" height="400">
+  </a>
+
+  <a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/clear_all_acception.png" alt="print" width="400" height="400">
+  </a>
+</div>
+
+
+<div align="Center">
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/code_exception#1.png" alt="print" width="400" height="400">
+  </a>
+</div>
 
 
 <!-- CONTRIBUTING -->

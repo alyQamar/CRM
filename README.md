@@ -18,9 +18,13 @@
 
 
 <!-- PROJECT LOGO -->
-
+<br />
+<div align="center">
+  <a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/crm.png" alt="Logo" width="80" height="80">
+  </a>
+  
   <h3 align="center">CRM</h3>
-
   <p align="center">
     Customer relationship management
     <br />
@@ -82,14 +86,44 @@ Use the `CRM_README.md` to get started.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+* The splash screen will appear after run program
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/splash screen.png" alt="Logo" width="900" height="500">
+  </a>
+  
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+* Then program screen will appear and you can convert it to dark mode with click to dark mode Radio Button
+
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/dark_mode.png" alt="Logo" width="600" height="500">
+  </a>
+
+
+<!-- Features -->
+## App features
+* Add customer data
+
+* update customer data
+
+* delete customer data
+
+* clear all Customers data
+
+* Search for Customer by using Code or name
+
+* print all costomer data
+
+<div align="right">
+<a href="https://github.com/alyQamar/CRM">
+    <img src="screenshots/print.png" alt="print" width="500" height="400">
+  </a>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- USAGE EXAMPLES -->
 
 
 <!-- CONTRIBUTING -->
@@ -136,4 +170,4 @@ Project Link: [https://github.com/alyQamar/CRM](https://github.com/alyQamar/CRM)
 [issues-url]: https://github.com/alyQamar/CRM/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/alyqamar/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: screenshots/default_mode.png

@@ -191,7 +191,7 @@ these some exceptions
 
 <div align="Center">
 <a href="https://github.com/alyQamar/CRM">
-    <img src="screenshots/code_exception#1.png" alt="print" width="400" height="400">
+    <img src="screenshots/code_exception.png" alt="print" width="400" height="400">
   </a>
 </div>
 

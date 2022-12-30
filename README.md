@@ -218,7 +218,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@Aly Qamar](https://www.linkedin.com/in/alyqamar/) - alyelsamouly@gmail.com
+[@Aly Qamar](https://www.linkedin.com/in/alyqamar/) - alyelsamouly@gmail.com
 
 Project Link: [https://github.com/alyQamar/CRM](https://github.com/alyQamar/CRM)
 
